@@ -105,3 +105,4 @@ Contribuições são bem-vindas! Se você deseja contribuir com o projeto, siga 
 ---
 
 Divirta-se com o site da **Pernambuguito Hamburgueria**! 😊🍔
+Be Happy
