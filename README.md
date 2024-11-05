@@ -51,12 +51,12 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/pernambuguito.git
+   git clone https://github.com/seu-usuario/Black-Burguer.git
    ```
 
 2. Navegue até o diretório do projeto:
    ```bash
-   cd pernambuguito
+   cd Black-Burguer
    ```
 
 3. Instale as dependências:
@@ -104,5 +104,5 @@ Contribuições são bem-vindas! Se você deseja contribuir com o projeto, siga 
 
 ---
 
-Divirta-se com o site da **Pernambuguito Hamburgueria**! 😊🍔
+Divirta-se com o site da **Black Burguer Hamburgueria**! 😊🍔
 Be Happy
