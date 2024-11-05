@@ -1,6 +1,6 @@
-# 📋 Pernambuguito Hamburgueria
+# 📋 Black Burguer
 
-Bem-vindo ao repositório do site da **Pernambuguito Hamburgueria**! 🍔🌶️
+Bem-vindo ao repositório do site da **Black Burguer**! 🍔🌶️
 
 Este projeto tem como objetivo desenvolver uma plataforma digital para a Pernambuguito, uma hamburgueria única que oferece produtos saborosos e uma experiência online moderna e intuitiva. O projeto é desenvolvido em 4 sprints, utilizando tecnologias modernas para criar um site robusto, responsivo e fácil de usar.
 
